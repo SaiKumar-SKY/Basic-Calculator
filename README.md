@@ -1,2 +1,2 @@
-# Fundamental-Projects
-This repository contains various fundamental Projects using HTML, CSS &amp; JavaScript.
+# Basic Calculator
+This repository contains Basic Calculator built using HTML, CSS &amp; JavaScript.
